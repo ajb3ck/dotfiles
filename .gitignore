@@ -1,0 +1,6 @@
+# IDE bits
+.idea/
+.vscode/
+
+# OS Bits
+.DS_Store
